@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">ft_hangouts</string>
+    <string name="last_visit">Your last visit:\n%s</string>
+    <string name="contacts_header_title">Contacts</string>
+    <string name="contacts_settings_change_theme">Change theme</string>
+    <string name="contacts_settings_change_language">Change language</string>
+</resources>

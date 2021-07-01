@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/all_items">
+        <item
+            android:id="@+id/menu_main_setting"
+            android:orderInCategory="100"
+            android:title="@string/contacts_settings_change_theme"
+            app:showAsAction="never"
+            />
+
+        <item
+            android:id="@+id/menu_main_setting2"
+            android:orderInCategory="200"
+            android:title="@string/contacts_settings_change_language"
+            app:showAsAction="never"
+            />
+    </group>
+
+</menu>

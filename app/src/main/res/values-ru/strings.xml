@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="last_visit">Последнее открытие в:\n%s</string>
+    <string name="contacts_header_title">Контакты</string>
+    <string name="contacts_settings_change_theme">Сменить тему</string>
+    <string name="contacts_settings_change_language">Сменить язык</string>
+</resources>
